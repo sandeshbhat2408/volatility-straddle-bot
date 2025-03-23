@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.log
+
+# Environments
+.venv/
+.env/
+
+# System
+.DS_Store
+
+# Data
+logs/
+data/vix_history.json
